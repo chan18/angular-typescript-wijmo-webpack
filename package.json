@@ -1,0 +1,22 @@
+{
+  "name": "wijmoangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@angular/core": "^7.1.1",
+    "@angular/platform-browser": "^7.1.1",
+    "angular": "^1.7.5",
+    "wijmo": "^5.20183.550"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chandra Kanth",
+  " ": "ISC"
+}
+
+
